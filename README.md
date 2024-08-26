@@ -1,1 +1,1 @@
-# CMPS460-Machine-Learning-Project
+# CMPS460 Machine Learning Project
